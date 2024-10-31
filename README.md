@@ -34,9 +34,9 @@ I am proficient in a variety of technologies and programming languages, includin
 
 Feel free to reach out if you want to discuss any projects, collaboration opportunities, or just want to connect!
 
-- **Email**: [your-email@example.com](mailto:thakshak120@gmail.com)
+- **Email**: [thakshak120@gmail.com](mailto:thakshak120@gmail.com)
 
-- **GitHub**: [Your GitHub Profile](https://github.com/Thakshak-cmd)
+- **GitHub**: [My GitHub Profile](https://github.com/Thakshak-cmd)
 
 Thank you for visiting my portfolio!
 
